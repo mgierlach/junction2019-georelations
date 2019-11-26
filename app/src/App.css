@@ -1,0 +1,98 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.App > * {
+    /* flex: 1 1 auto; */
+}
+
+.App-logo {
+    max-width: 300px;
+    padding: 30px;
+}
+
+.businessFinland-logo {
+    max-width: 300px;
+    padding: 10px;
+    margin: 10vh;
+}
+
+.main {
+    flex: 1 1 auto;
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    /* min-height: 80vh; */
+}
+
+.my-map {
+    flex: 1 1 auto;
+}
+
+.App-link {
+    color: #09d3ac;
+    text-decoration: none;
+}
+
+.event {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.event-select {
+    min-width: 300px;
+    color: black;
+}
+
+.date-select {
+    background-color: white;
+}
+
+.map-header {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    align-items: center;
+}
+
+.map-header .title {
+    margin: 10px 50px 10px 10px;
+}
+
+.help div {
+    max-width: 900px;
+    margin: auto;
+}
+
+.help h1 {
+    text-align: center;
+}
+
+.team {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+}
+
+.copyright {
+    font-style: italic;
+}
+
+@media only screen and (max-width: 600px) {
+    .map-header {
+        flex-wrap: wrap;
+    }
+    .help div {
+        padding: 10px;
+    }
+}
