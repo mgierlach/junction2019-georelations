@@ -1,4 +1,6 @@
-# Junction2019
+# GeoRelations - Junction 2019
+
+GeoRelations: As an interactive visualisation of geographical correlations in visitor traffic that goes beyond distance measures and people flows, our tool provides novel and creative insights and analytics opportunities for small businesses and local governments.
 
 ## Introduction
 Nowadays, it is common for local businesses and public institutions to gather data about their own establishment. What is mostly missed, however, is the importance of relations to other facilities in the same city. Access to this data would open a whole new level of analytics and connectivity possibilities.
@@ -42,6 +44,20 @@ In order to explore these connections:
 That's easy: Because they show how much visitor numbers in one place are related to visitor numbers in another place.
 
 There is also a more mathematical interpretation, based on a statistical approach to visitor numbers as random variables. Using a linear regression approach, squared correlation explains how much of the variance in visitor numbers of one place is explained by those of another.
+
+## Demo
+https://dna-helsinki.netlify.com/
+
+![img1](https://res.cloudinary.com/hackjunction/image/upload/c_fill,q_auto/v1/junctionapp/projects/junction-2019/qdtbkKaIV/eird2esz6b2jbwszwppa)
+
+![img2](https://res.cloudinary.com/hackjunction/image/upload/c_fill,q_auto/v1/junctionapp/projects/junction-2019/qdtbkKaIV/cnactheceqbtazksgetc)
+
+![img3](https://res.cloudinary.com/hackjunction/image/upload/c_fill,q_auto/v1/junctionapp/projects/junction-2019/qdtbkKaIV/fxt1vnbvd916znoeyahk)
+
+![img4](https://res.cloudinary.com/hackjunction/image/upload/c_fill,q_auto/v1/junctionapp/projects/junction-2019/qdtbkKaIV/ce9nqtgc9trgpmeveaya)
+
+
+
 
 ------------------
 Link to repository with the backend code:
