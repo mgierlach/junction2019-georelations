@@ -58,7 +58,6 @@ https://dna-helsinki.netlify.com/
 
 
 
-
 ------------------
 Link to repository with the backend code:
 https://github.com/BondarenkoStas/CrowdControl_Junction_backend
